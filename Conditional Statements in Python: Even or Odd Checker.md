@@ -20,7 +20,7 @@ else:
     print("ODD")
 ```
 ## Output
-<img width="1080" height="850" alt="WhatsApp Image 2026-04-20 at 13 52 14" src="https://github.com/user-attachments/assets/b56c572d-7721-4154-81ec-722bd0f0b634" />
+<img width="582" height="464" alt="image" src="https://github.com/user-attachments/assets/ef617ce8-8c2d-4d8e-8133-516f6d8b0b39" />
 
 ## Result
 Thus,the python program to check if the given number is odd or even using if-else is executed successfully.
